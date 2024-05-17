@@ -1,0 +1,23 @@
+Nombre del alumno: Cindy Stefania De la Cruz Garcia
+Cursa la carrera: Derecho
+
+
+La primera materia que esta cursando el alumno es: Legislacion
+Impartida por el maestro Un se
+Con una calificacion de 80.00 (Muy bien.)
+
+La segunda materia que esta cursando el alumno es: Cultura de paz
+Impartida por el maestro Carlos Villanueva Lomeli
+Con una calificacion de 100.00 (Perfecto.)
+
+La tercera materia que esta cursando el alumno es: Vida y entorno sustentable
+Impartida por el maestro Karina Nava Andrade
+Con una calificacion de 69.00 (Regular.)
+
+La cuarta materia que esta cursando el alumno es: Constitucion mexicana
+Impartida por el maestro Salvador Escoto
+Con una calificacion de 88.00 (Muy bien.)
+
+La quinta materia que esta cursando el alumno es: Debates
+Impartida por el maestro Monica Ruiz
+Con una calificacion de 97.00 (Exelente.)

@@ -1,0 +1,23 @@
+Nombre del alumno: Jimena Ramirez
+Cursa la carrera: Psicologia
+
+
+La primera materia que esta cursando el alumno es: Psicologia de la mente
+Impartida por el maestro Sabrina Carpenter
+Con una calificacion de 80.00 (Muy bien.)
+
+La segunda materia que esta cursando el alumno es: Vida y entorno sustentable
+Impartida por el maestro Karina Nava Andrade
+Con una calificacion de 59.00 (Reprobado.)
+
+La tercera materia que esta cursando el alumno es: Cultura de paz
+Impartida por el maestro Carlos Villanueva Lomeli
+Con una calificacion de 100.00 (Perfecto.)
+
+La cuarta materia que esta cursando el alumno es: Educacion fisica
+Impartida por el maestro Pepe
+Con una calificacion de 40.00 (Reprobado.)
+
+La quinta materia que esta cursando el alumno es: Filosofia
+Impartida por el maestro Un se
+Con una calificacion de 100.00 (Perfecto.)

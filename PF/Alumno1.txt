@@ -1,0 +1,23 @@
+Nombre del alumno: Kaleb Alejandro Falcon Marquez
+Cursa la carrera: Computacion
+
+
+La primera materia que esta cursando el alumno es: Programacion Estructurada
+Impartida por el maestro Carlos Javier Cruz Franco
+Con una calificacion de 100.00 (Perfecto.)
+
+La segunda materia que esta cursando el alumno es: Matematicas Discretas
+Impartida por el maestro Juan Manuel Esquivel Sanchez
+Con una calificacion de 88.00 (Muy bien.)
+
+La tercera materia que esta cursando el alumno es: Administracion de proyectos tecnologicos
+Impartida por el maestro Miguel Angel Sanabria Valdez
+Con una calificacion de 98.00 (Exelente.)
+
+La cuarta materia que esta cursando el alumno es: Mecanica
+Impartida por el maestro Mariano Aceves Aldrete
+Con una calificacion de 80.00 (Muy bien.)
+
+La quinta materia que esta cursando el alumno es: Vida y entorno sustentable
+Impartida por el maestro Karina Nava Andrade
+Con una calificacion de 60.00 (Regular.)
